@@ -3,17 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "logangroenestein.github.io"
+  title: "Logan Groenestein"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - hobbies.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - minty
       - brand
     css: styles.css
     toc: true

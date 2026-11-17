@@ -1,11 +1,30 @@
 ---
-title: "logangroenestein.github.io"
+title: "Logan Groenestein"
 ---
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### MSc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
 
-```{r}
-1 + 1
-```
+*Utrecht University* | to graduate 2027
+
+Electives on Contemporary Psychometrics with Cito and University of Twente.
+
+Thesis: Testing for the Presence of Measurement Error in N=1 Time Series Data
+
+[Program link.](https://www.uu.nl/en/masters/methodology-statistics-and-data-science)
+
+
+### BSc Interdisciplinary Social Science
+
+*Utrecht University* | 2025 | cum laude
+
+Minor: [Methods and Statistics in the Social and Behavioural Sciences](https://students.uu.nl/en/academics/minors/methods-and-statistics-in-the-social-and-behavioural-sciences-methoden-en-technieken)
+
+Track: Migration, Ethnic Relations and Multiculturalism
+
+Thesis: Support Rates for Hypotheses in Registered Reports versus Standard Reports
+
+[Program link (Dutch).](https://www.uu.nl/bachelors/interdisciplinaire-sociale-wetenschap)
+
+
