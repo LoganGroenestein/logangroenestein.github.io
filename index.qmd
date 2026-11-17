@@ -2,7 +2,9 @@
 title: "Logan Groenestein"
 ---
 
-Hi! I'm Logan, a second year student in the Research Master program Methodology and Statistics for the Behavioural, Biomedical and Social Sciences. On this website you can find some information about my educational background (below), some of the tools in my statistical toolbox, and what I get up to in my downtime.
+Hi! I'm Logan, a second year student in the Research Master program Methodology and Statistics for the Behavioural, Biomedical and Social Sciences. 
+
+On this website you can find some information about my educational background (below), some of the tools in my statistical toolbox, and what I get up to in my downtime.
 
 ## Education
 
