@@ -4,13 +4,17 @@ title: "Side Quests and Hobbies"
 
 ## Side Quests
 
+I always have at least one side quest running, which I'll think about on and off and work on occasionally. Usually it is about some kind of question or problem I have run into that I try to figure out over time. These often include some kind of personal data collection, data simulation, or calculation. Whatever it is, these side quests have at least one thing in common: I take them a few steps further than I probably should. Below are a few examples.
+
 ### Bananas
 
-...
+One of my recent side quests was on the weight of bananas. I was wondering whether the relationship between a banana's peel weight and edible weight would be linear or not, so I decided to collect my own data. For three months I meticulously weighed every banana I ate, including its peel weight, the date of purchase and the date of measurement/consumption. I included the dates, because I had the impression that banana peels get thinner as the bananas age, so I wanted to be able to account for this type of variance in the weights. The linearity turned out to be quite difficult to analyse (I think I would need an unrealistically wide range of banana sizes to really see this). However, I could clearly see that the older bananas I weighed had lighter peels than the fresher bananas, relative to their edible weight. My suspicion about banana peels thinning over time seemed correct. 
 
 ### Binary puzzles
 
-...
+One of my long-term favourite puzzles is the "binary puzzle". You complete a square grid with 0s and 1s, based on some restrictions about neighbouring cells and rows and columns. I've wondered for a long time how many possible completed grids there are for a given puzzle size (specifically 14 by 14 and 10 by 10). First, I worked out by hand how many unique rows or columns there are for size 10 and size 14 grids (84 and 518, respectively). Then, once I was more familiar with R, I replicated this in R; I wrote a function that finds all possible unique rows/columns for a given puzzle size. My next goal was to use this to find all possible completed grids. However, the few ideas I had all ran into issues, because there are simply too many permutations of these rows/columns into grids and it was taking way too much memory. For the next few months I sat on this. Then, I realised that while actually collecting all completed grids might be a bit too intensive (for now), one of the applications I had in mind might still be possible: "solving" a puzzle using R. My initial plan was to do this by comparing an incomplete puzzle to my set of completed grids to find the one grid that matches, which must be its solution. While I didn't have the completed grids to compare to, I did have the completed rows/columns; I could compare every individual row and column in a puzzle to all the ways it could be completed and see what they have in common. I further developed this idea theoretically, figuring out what rules of binary puzzles I would be able to cover in what ways with this method and realising I should be able to get it to work with most binary puzzles. Then, months later, I spent an afternoon working out how to translate my idea into a procedure that can be done in R, fleshing out the structure of all the steps and the different transformations needed. The result: a custom R function that takes matrix with a binary puzzle and returns the completed puzzle. I still have no idea how many unique completed puzzles are possible, but I do now have a function in R to solve a binary puzzle. Its use cases are basically an empty set, but I still think it's pretty cool. And it has certainly been a great learning experience in many different ways. 
+
+*More on this soon.*
 
 ## Hobbies
 
@@ -24,10 +28,6 @@ As one might guess based on the side quest above, I love doing puzzles. While I 
 
 Reading is one of my oldest hobbies, though it fluctuates in how active it is. Some years I read one book, while in 2026 I'm approaching fifty. Some of my favourite genres are contemporary literary fiction (with the occasional touch of magical realism), classics, queer romance, and, recently, a little bit of fantasy. I also like the idea of non-fiction, but my attention span tends to struggle with those.
 
-### Knitting and crochet
-
-I picked up knitting and crochet in the pandemic. Since then I've made many plushes, hats, a scarf, a jumper, house slippers, three and a half socks, and many other things in various states of completion. I haven't done it as much in the last year or two, but occasionally, when life is (not) too busy or I need a gift for someone, I'll pick it up again for a few weeks. 
-
 ### Bird watching
 
 Whenever I'm outside --- or close to a window --- you can catch me scanning for birds. I enjoy looking at whatever birds are around, but my favourites are shorebirds and ducks. Put me and my telescope near a mudflat with foraging birds and I'm entertained for the rest of the day (at least until the tide comes in and the birds move inland). Though I know most of the common birds around The Netherlands by appearance, do not ask me about their sounds; I could probably recognise ten species at best.
@@ -35,3 +35,7 @@ Whenever I'm outside --- or close to a window --- you can catch me scanning for 
 ### Running and cycling
 
 Early 2025 I discovered that cycling can be fun, and not just a mode of transport. In 2025 I cycled 2000km (for fun!), but since I picked up running it's been more on the back burner. I started running late 2025 and I haven't looked back. Mostly on the road, with the occasional trail thrown in. Since then I've run a few 10K events and signed up for an 18km trail and a half marathon. Wish me luck!
+
+### Knitting and crochet
+
+I picked up knitting and crochet in the pandemic. Since then I've made many plushes, hats, a scarf, a jumper, house slippers, three and a half socks, and many other things in various states of completion. I haven't done it as much in the last year or two, but occasionally, when life is (not) too busy or I need a gift for someone, I'll pick it up again for a few weeks. 

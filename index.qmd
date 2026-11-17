@@ -2,15 +2,17 @@
 title: "Logan Groenestein"
 ---
 
+Hi! I'm Logan, a second year student in the Research Master program Methodology and Statistics for the Behavioural, Biomedical and Social Sciences. On this website you can find some information about my educational background (below), some of the tools in my statistical toolbox, and what I get up to in my downtime.
+
 ## Education
 
 ### MSc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
 
 *Utrecht University* | to graduate 2027
 
-Electives on Contemporary Psychometrics with Cito and University of Twente.
-
 Thesis: Testing for the Presence of Measurement Error in N=1 Time Series Data
+
+Electives on Contemporary Psychometrics with Cito and University of Twente.
 
 [Program link.](https://www.uu.nl/en/masters/methodology-statistics-and-data-science)
 
@@ -19,11 +21,11 @@ Thesis: Testing for the Presence of Measurement Error in N=1 Time Series Data
 
 *Utrecht University* | 2025 | cum laude
 
+Thesis: Support Rates for Hypotheses in Registered Reports versus Standard Reports
+
 Minor: [Methods and Statistics in the Social and Behavioural Sciences](https://students.uu.nl/en/academics/minors/methods-and-statistics-in-the-social-and-behavioural-sciences-methoden-en-technieken)
 
 Track: Migration, Ethnic Relations and Multiculturalism
-
-Thesis: Support Rates for Hypotheses in Registered Reports versus Standard Reports
 
 [Program link (Dutch).](https://www.uu.nl/bachelors/interdisciplinaire-sociale-wetenschap)
 

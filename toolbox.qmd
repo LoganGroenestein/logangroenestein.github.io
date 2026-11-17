@@ -1,0 +1,17 @@
+---
+title: "Toolbox"
+---
+
+These are some of the skills and tools I bring with me to any project I work on. 
+
+**Statistical programming in R** --- Several years of experience; starting in bachelor's statistics courses, through more advanced master's courses, and several personal projects (see Side Quests). I love writing custom functions and finding creative solutions to problems I run into. I can work both with tidyverse and base R, and have experience working with RMarkdown and Quarto. 
+
+**Statistical analysis in SPSS** --- Though not my favourite to work with, I have experience in data analysis in SPSS from several bachelor's statistics courses.
+
+**Broad understanding of theory and applied research practices of the Social Sciences** --- Based on a bachelor's in Interdisciplinary Social Sciences, with focus on research methods and statistics. Including survey methodology, missing data handling, causal inference, structural equation modelling, and some qualitative research methods.
+
+**Curiosity, mixed with a (mostly) healthy dose of commitment** --- If I think I can answer the question through my own data collection or simulation, I'm not afraid of doing so. This is how I ended up with a data set with various weight measures of 113 bananas, a function to solve binary puzzles in R, and numerous calculations for probability and combinatorics about everyday things. (Once again, see Side Quests and Hobbies.)
+
+**Systematic and analytical thinking** --- I love the challenge of taking a problem and finding different ways of looking at it, finding analogies from seemingly unrelated situations, and restructuring the problem in a way that might show different solutions. 
+
+**An ereader, some puzzle books, and a pencil** --- Wherever I go, they go.
